@@ -1,5 +1,3 @@
-# Welcome to My Blog 👋
-
 Hi! I'm sharing insights on data, poverty analysis, and real-life experiences.
 
 ## About Me
