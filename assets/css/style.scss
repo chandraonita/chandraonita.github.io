@@ -1,0 +1,38 @@
+---
+---
+
+@import "minima";
+
+/* Background lembut */
+body {
+  background-color: #fdf6f0;
+  font-family: "Segoe UI", sans-serif;
+}
+
+/* Header hangat */
+.site-header {
+  background-color: #f8c8dc;
+}
+
+/* Judul blog */
+.site-title, .site-title:visited {
+  color: #5a3e36;
+  font-weight: bold;
+}
+
+/* Link */
+a {
+  color: #e07a5f;
+}
+
+/* Konten utama */
+.page-content {
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 12px;
+}
+
+/* Judul artikel */
+.post-title {
+  color: #5a3e36;
+}
