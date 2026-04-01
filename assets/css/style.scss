@@ -13,7 +13,7 @@ body {
   line-height: 1.6;
 }
 
-/* Wrapper biar center */
+/* Wrapper untuk center konten */
 .wrapper {
   max-width: 900px;
   margin: auto;
@@ -38,6 +38,7 @@ body {
 /* Navbar */
 .site-nav a {
   color: #5a3e36;
+  text-decoration: none;
 }
 
 .site-nav a:hover {
@@ -53,8 +54,6 @@ body {
   padding: 25px;
   border-radius: 12px;
   margin-top: 20px;
-
-  /* Shadow biar elegan */
   box-shadow: 0 4px 12px rgba(0,0,0,0.08);
 }
 
@@ -78,8 +77,8 @@ a {
 }
 
 a:hover {
-  text-decoration: underline;
   color: #b56576;
+  text-decoration: underline;
 }
 
 /* =========================
@@ -94,7 +93,7 @@ a:hover {
 }
 
 /* =========================
-   BUTTON (Optional)
+   BUTTON (Opsional)
 ========================= */
 button {
   background-color: #e07a5f;
@@ -126,7 +125,7 @@ html {
 }
 
 /* =========================
-   DARK MODE AUTO
+   DARK MODE (otomatis jika browser support)
 ========================= */
 @media (prefers-color-scheme: dark) {
   body {
@@ -149,14 +148,27 @@ html {
     color: #fff;
   }
 
+  .site-nav a {
+    color: #eee;
+  }
+
+  .site-nav a:hover {
+    color: #ff9f9f;
+  }
+
   a {
     color: #ff9f9f;
+  }
+
+  a:hover {
+    color: #ffa5a5;
   }
 
   button {
     background-color: #ff9f9f;
   }
-}
-body {
-  background-color: #fdf6f0 !important;
+
+  button:hover {
+    background-color: #ff7070;
+  }
 }
