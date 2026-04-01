@@ -1,33 +1,79 @@
 ---
-title: "Kenapa Kita Tetap Melakukan Hal yang Kita Tahu Itu Salah?"
+title: "Why Do We Keep Doing Things We Know Are Wrong?"
 ---
 
-Pernah gak sih kamu ngalamin ini…
+Have you ever experienced this…
 
-Udah tahu harus hemat… tapi tetap belanja.  
-Udah tahu harus sabar… tapi tetap emosi.  
-Udah tahu harus mulai… tapi tetap nunda.
+You know you should save money… but you still spend.
+You know you should stay calm… but you still get angry.
+You know you should start… but you keep delaying it.
 
-Aneh ya?
+Strange, right?
 
-Kita sebenarnya tahu. Tapi tetap aja gak dilakukan.
+We actually know.
+But somehow… we still don’t do it
 
-Masalahnya bukan kurang ilmu.  
-Tapi kita susah ngontrol diri sendiri.
+At first, I thought maybe the problem was a lack of knowledge.
+But the more I think about it, the more I realize… that’s not it.
 
-Kadang di dalam diri kita kayak ada dua suara:
-yang satu bilang “jangan”, yang satu lagi bilang “sekali ini aja…”
+The real problem is simple:
+we struggle to control ourselves.
 
-Dan yang “sekali ini aja” sering menang 😅
+🧠 Our brain has “two sides”
+If you pay attention, it feels like there are two voices inside us:
 
-Karena otak kita suka yang cepat dan enak.
+- One says: “This is not good. Don’t do it.”
+- The other says: “It’s okay… just this once.”
 
-Padahal yang benar biasanya butuh nahan diri.
+And somehow… the second one wins 😅
 
-Jadi mungkin masalah kita bukan kurang tahu.  
-Tapi kita belum cukup kuat bilang:
+Why?
 
-“Enggak. Kali ini gue tahan.”
+Because our brain naturally prefers things that are:
 
-Karena hidup kita bukan ditentukan dari apa yang kita tahu,  
-tapi dari apa yang benar-benar kita lakukan.
+- fast
+- easy
+- instantly satisfying
+
+While the right things are usually:
+
+- harder
+- uncomfortable
+- require self-control
+
+So the truth is, we are:
+
+- not lacking intelligence
+- not lacking understanding
+
+But…
+we haven’t trained our self-control enough.
+
+The more we give in to short-term desires,
+the easier it becomes to lose again next time.
+
+Maybe all this time we’ve been focusing on learning more and more…
+
+But what really matters is:
+training ourselves to do what we already know is right.
+
+Start small:
+
+- resist unnecessary spending
+- hold back your anger
+- stop delaying things
+
+It sounds simple, but it’s actually powerful training for your brain.
+
+So maybe the problem isn’t that we “don’t know”.
+
+Maybe we just haven’t said this enough:
+
+«“No. Not this time.”»
+
+Because in the end,
+our life is not defined by what we know,
+but by what we actually do.
+
+
+
