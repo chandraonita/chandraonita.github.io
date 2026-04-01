@@ -17,3 +17,9 @@ As a data enthusiast and a mother of four, my journey is a mix of analysis, empa
 
 ## Posts
 More stories are on the way — stay tuned ✨
+
+## Daftar Artikel
+
+{% for post in site.posts %}
+- [{{ post.title }}]({{ post.url }})
+{% endfor %}
