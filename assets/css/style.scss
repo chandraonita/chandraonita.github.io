@@ -3,36 +3,157 @@
 
 @import "minima";
 
-/* Background lembut */
+/* =========================
+   GLOBAL STYLE
+========================= */
 body {
   background-color: #fdf6f0;
   font-family: "Segoe UI", sans-serif;
+  color: #5a3e36;
+  line-height: 1.6;
 }
 
-/* Header hangat */
+/* Wrapper biar center */
+.wrapper {
+  max-width: 900px;
+  margin: auto;
+  padding: 0 15px;
+}
+
+/* =========================
+   HEADER
+========================= */
 .site-header {
   background-color: #f8c8dc;
+  border-bottom: none;
 }
 
-/* Judul blog */
-.site-title, .site-title:visited {
+.site-title,
+.site-title:visited {
   color: #5a3e36;
   font-weight: bold;
+  font-size: 26px;
 }
 
-/* Link */
-a {
-  color: #e07a5f;
+/* Navbar */
+.site-nav a {
+  color: #5a3e36;
 }
 
-/* Konten utama */
+.site-nav a:hover {
+  color: #b56576;
+  transition: 0.3s;
+}
+
+/* =========================
+   CONTENT
+========================= */
 .page-content {
   background-color: #ffffff;
-  padding: 20px;
+  padding: 25px;
   border-radius: 12px;
+  margin-top: 20px;
+
+  /* Shadow biar elegan */
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
 }
 
-/* Judul artikel */
+/* Post Title */
 .post-title {
   color: #5a3e36;
+  font-size: 28px;
+}
+
+/* List post */
+.post-list li {
+  margin-bottom: 20px;
+}
+
+/* =========================
+   LINK & TEXT
+========================= */
+a {
+  color: #e07a5f;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #b56576;
+}
+
+/* =========================
+   FOOTER
+========================= */
+.site-footer {
+  background-color: #f8c8dc;
+  color: #5a3e36;
+  text-align: center;
+  padding: 15px;
+  margin-top: 30px;
+}
+
+/* =========================
+   BUTTON (Optional)
+========================= */
+button {
+  background-color: #e07a5f;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #b56576;
+  transition: 0.3s;
+}
+
+/* =========================
+   IMAGE STYLE
+========================= */
+img {
+  border-radius: 10px;
+  max-width: 100%;
+}
+
+/* =========================
+   SMOOTH SCROLL
+========================= */
+html {
+  scroll-behavior: smooth;
+}
+
+/* =========================
+   DARK MODE AUTO
+========================= */
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #1e1e1e;
+    color: #eee;
+  }
+
+  .page-content {
+    background-color: #2a2a2a;
+    box-shadow: none;
+  }
+
+  .site-header,
+  .site-footer {
+    background-color: #333;
+  }
+
+  .site-title,
+  .site-title:visited {
+    color: #fff;
+  }
+
+  a {
+    color: #ff9f9f;
+  }
+
+  button {
+    background-color: #ff9f9f;
+  }
 }
