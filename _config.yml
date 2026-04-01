@@ -1,7 +1,28 @@
 theme: minima
+
 title: Onita Stories
-description: Stories behind data, family life, and everyday realities
+description: "Stories behind data, family life, and everyday realities"
 author: Chandra Onita
 
+# Navbar (menu atas)
 header_pages:
   - about.md
+
+# URL (opsional, isi kalau sudah publish)
+# url: "https://username.github.io"
+# baseurl: ""
+
+# Tampilan
+show_excerpts: true   # nampilin ringkasan post di homepage
+
+# Format tanggal
+minima:
+  date_format: "%b %-d, %Y"
+
+# Social (opsional, isi kalau ada)
+github_username: yourusername
+# instagram_username: yourusername
+
+# Plugin bawaan GitHub Pages
+plugins:
+  - jekyll-feed
