@@ -26,3 +26,5 @@ github_username: yourusername
 # Plugin bawaan GitHub Pages
 plugins:
   - jekyll-feed
+sass:
+  style: compressed
