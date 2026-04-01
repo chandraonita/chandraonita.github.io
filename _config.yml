@@ -2,3 +2,6 @@ theme: minima
 title: Onita Stories
 description: Stories behind data, family life, and everyday realities
 author: Chandra Onita
+
+header_pages:
+  - about.md
