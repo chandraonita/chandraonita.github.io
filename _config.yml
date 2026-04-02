@@ -1,6 +1,6 @@
 theme: minima
 
-title: Onita Stories
+title: My Stories
 description: "Stories behind data, family life, and everyday realities"
 author: Chandra Onita
 
@@ -20,7 +20,7 @@ minima:
   date_format: "%b %-d, %Y"
 
 # Social (opsional, isi kalau ada)
-github_username: yourusername
+github_username: ChandraOnita
 # instagram_username: yourusername
 
 # Plugin bawaan GitHub Pages
